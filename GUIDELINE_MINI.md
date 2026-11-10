@@ -23,6 +23,6 @@
 
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
-| `drive_...` | | | |
-| `drive_...` | | | |
-| `drive_...` | | | |
+| `drive_045` | Xe có kiểu dáng SUV/Jeep địa hình, phần đầu xe lộ diện rõ nhưng bị che khuất một phần phía sau và bên hông bởi đuôi xe tải lớn. | Gán nhãn: car | Áp dụng quy tắc vật thể bị che khuất: Xe lộ rõ phần đầu chiếm >30% diện tích giúp nhận diện rõ kết cấu lưới tản nhiệt, đèn pha và kính chắn gió đặc trưng của dòng ô tô con chở người (SUV cỡ nhỏ/Jeep địa hình). |
+| `drive_001` | Xe con màu trắng bị một cây cột lớn che khuất dọc chính giữa thân xe, chia vật thể nhìn như bị tách đôi. | Gán nhãn: car | Áp dụng quy tắc vật thể bị che khuất: Mặc dù bị cột che mất phần lớn thân giữa, mắt người dựa vào kết cấu đuôi xe vuốt dốc, cụm đèn hậu kéo dọc đặc trưng (giống dòng xe Volvo XC60 hoặc Honda CR-V) vẫn dễ dàng nhận diện đây là chiếc xe ô tô con chở người (SUV/Crossover). |
+| `drive_021` | Xe ô tô màu bạc có kiểu dáng vuông vức đặc trưng, ảnh bị nhòe nhẹ do chuyển động. | Gán nhãn: van | Xe có cấu trúc thân xe hình khối hộp chữ nhật đồng nhất từ cabin kéo dài ra khoang sau, trần xe cao và có thiết kế cửa lùa/khoang chứa đồ tích hợp (đặc trưng của các dòng xe van đô thị như Peugeot Partner, Citroen Berlingo hoặc xe tải van mini). |
